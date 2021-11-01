@@ -8,11 +8,14 @@ Sonarqube: https://hub.docker.com/_/sonarqube
 Spark: https://hub.docker.com/r/bitnami/spark
 Hadoop: https://hub.docker.com/r/sequenceiq/hadoop-docker
 
+![Capture](https://i.imgur.com/r4yEeZK.jpg)
+
 ## Deployment
 Terminal: kubectl run -i --tty terminal --image=gcr.io/cloud-infra-course-project/waterye/cloud-terminal
 
 For other microservices, the deployment and services are completed in web console.
 
+![Capture](https://i.imgur.com/OWRNrBg.jpg)
 
 ## Application Screenshot
 Terminal: 
@@ -26,3 +29,6 @@ Sonarqube:
 
 Spark:
 ![Capture](https://i.imgur.com/wRgLPk2.jpg)
+
+Hadoop:
+![Capture](https://i.imgur.com/yKQddMy.jpg)
