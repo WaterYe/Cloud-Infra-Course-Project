@@ -8,19 +8,19 @@ class Terminal {
     }
 
     private static void hadoop() {
-        System.out.println("Hadoop Incomplete\n");
+        System.out.println("Please visit http://34.135.57.13:9870/\n");
     }
 
     private static void spark() {
-        System.out.println("Spark Incomplete\n");
+        System.out.println("Please visit http://35.232.68.95:8080/\n");
     }
 
     private static void jupyter() {
-        System.out.println("Jupyter Incomplete\n");
+        System.out.println("Please visit http://104.197.52.68:8888/\n");
     }
 
     private static void sonarqube() {
-        System.out.println("Sonarqube Incomplete\n");
+        System.out.println("Please visit 34.122.8.225:9000/\n");
     }
 
     private static void prompt() {
